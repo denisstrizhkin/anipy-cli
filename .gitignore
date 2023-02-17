@@ -1,0 +1,4 @@
+.idea
+venv
+anipy_cli.egg-info
+anipy_cli/__pycache__
